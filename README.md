@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, this is a test readme for my profile? (wip)
+
+Basically my interests are really broad and start from singing, go through programming and end up on neuropsychology lol
