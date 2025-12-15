@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 Hi, this is a test readme for my profile? (wip)
 
+
+[![Tajemnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TajemnikTV&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 Basically my interests are really broad and start from singing, go through programming and end up on neuropsychology lol
