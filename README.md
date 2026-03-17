@@ -1,6 +1,6 @@
 <!-- BANNER: Replace BELOW with your own custom banner if you'd like! -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&width=800&lines=Hey%2C+I'm+Grzegorz+%F0%9F%91%8B;aka+TajemnikTV;Modding+%7C+Graphics+%7C+AI+%7C+Chaos+%7C+Fun+Facts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&width=800&lines=Hey%2C+I'm+Grzegorz+%F0%9F%91%8B;aka+TajemnikTV" alt="Typing SVG" />
 </p>
 
 <div align="center"
