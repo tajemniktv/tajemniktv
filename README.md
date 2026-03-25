@@ -32,6 +32,7 @@ My interests run from **singing** to **programming** to **neuropsychology**—I 
 <td align="center" width="50%">
   
 ### Favorite playgrounds  
+🧠 **Psych (esp neuropsych)**  
 🎮 **Game modding**  
 💡 **Graphics/rendering**  
 🛠️ **Developer tooling**  
@@ -41,7 +42,6 @@ My interests run from **singing** to **programming** to **neuropsychology**—I 
 <td align="center" width="50%">
 
 ### Random obsessions  
-🧠 **Psych (esp neuropsych)**  
 ✨ **Turning ideas into projects**  
 🎤 **Singing/music nerd**  
 🖌️ **Details & pixel perfectness**  
