@@ -1,166 +1,153 @@
-<!-- BANNER: Replace BELOW with your own custom banner if you'd like! -->
+<!-- Profile README for Grzegorz Kaczmarski / TajemnikTV -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&width=800&lines=Hey%2C+I'm+Grzegorz+%F0%9F%91%8B;aka+TajemnikTV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&center=true&width=800&lines=Hey%2C+I'm+Grzegorz+%F0%9F%91%8B;aka+TajemnikTV;I+make+mods%2C+tools%2C+and+weird+experiments" alt="Typing SVG" />
 </p>
 
-<div align="center"
+<div align="center">
 
 **Hobbyist developer • modder • graphics tinkerer • psychology enjoyer • professional overthinker**
 
 [![Website](https://img.shields.io/badge/Website-tajemniktv.github.io-111?style=for-the-badge)](https://tajemniktv.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-tajemniktv-111?style=for-the-badge&logo=github)](https://github.com/tajemniktv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grzegorz_Kaczmarski-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/grzegorzkaczmarski)
-[![Instagram](https://img.shields.io/badge/Instagram-@tajemniktvv-111?style=for-the-badge&logo=instagram)](https://www.instagram.com/tajemniktvv)
+[![GitHub](https://img.shields.io/badge/GitHub-tajemniktv-111?style=for-the-badge\&logo=github)](https://github.com/tajemniktv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grzegorz_Kaczmarski-111?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/grzegorzkaczmarski)
+[![Instagram](https://img.shields.io/badge/Instagram-@tajemniktvv-111?style=for-the-badge\&logo=instagram)](https://www.instagram.com/tajemniktvv)
 
 <br>
 
-> *Broad interests, questionable sleep schedule, and way too many ideas.*
+> Broad interests, questionable sleep schedule, and a dangerous habit of turning random ideas into projects.
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## Hi, I'm Grzegorz
 
-I'm a hobbyist developer from Poland who likes mixing **technical experimentation** with **creative chaos**.  
-My interests run from **singing** to **programming** to **neuropsychology**—I like making things that are useful, customizable, visually satisfying, and maybe a bit overengineered.
+I'm a hobbyist developer from Poland, usually building some mix of mods, tools, visual experiments, and projects that started as “this should take one evening” and then absolutely did not.
 
-<div align="center">
+I like making things that feel good to use: customizable, visually polished, slightly overengineered, and ideally useful to at least one other person on the internet. My interests jump between programming, game modding, rendering/graphics, automation, singing, and psychology, because apparently having one hobby was too reasonable.
+
+---
+
+## What I usually mess with
 
 <table>
 <tr>
-<td align="center" width="50%">
-  
-### Favorite playgrounds  
-🧠 **Psych (esp neuropsych)**  
-🎮 **Game modding**  
-💡 **Graphics/rendering**  
-🛠️ **Developer tooling**  
-🤖 **AI-assisted workflows**  
-  
-</td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-### Random obsessions  
-✨ **Turning ideas into projects**  
-🎤 **Singing/music nerd**  
-🖌️ **Details & pixel perfectness**  
+### Technical stuff
+
+* Game modding
+* Unreal Engine experiments
+* Graphics, lighting, rendering tweaks
+* Developer tools and automation
+* GitHub Actions / CI workflows
+* AI-assisted coding workflows
+
+</td>
+<td valign="top" width="50%">
+
+### Brain stuff
+
+* Psychology, especially neuropsychology
+* UX and how tools feel to use
+* Music and singing
+* Overthinking tiny details until they become architecture
+* Making things prettier than strictly necessary
 
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+## Current rabbit holes
+
+* Building mods and tooling for games
+* Making visuals better without completely murdering performance
+* Cleaning up solo-dev workflows so future me suffers slightly less
+* Experimenting with AI as a coding/design/research assistant
+* Tweaking UI, docs, automation, and graphics settings with unreasonable intensity
 
 ---
 
-## 🔥 What I'm into lately
+## Featured project
 
-- Working in **Unreal Engine**
-- Making games look prettier than necessary
-- Building mods/tools/weird experiments
-- Improving solo-dev automation
-- Obsessively tweaking details
-- Breaking/fixing/improving (repeat!)
-
----
-
-## 🎮 Featured project
 ### [Taj's Graphical Overhaul](https://github.com/tajemniktv/TajsGraph)
-A graphics enhancement mod for **Satisfactory** – making visuals, lighting, shadows, reflections (and general eye-candy) better, without forgetting performance.
+
+A graphics enhancement mod for **Satisfactory** focused on improving lighting, shadows, reflections, and general visual quality while still caring about performance.
 
 <details>
-  <summary>Main areas:</summary>
-  
-  - Lumen & lighting improvements
-  - Shadow & reflection tweaks
-  - Graphics customization
-  - Performance-oriented experimentation
-  - Unreal Engine rendering chaos, but on purpose
+  <summary>What it plays with</summary>
+
+* Lumen and lighting behavior
+* Shadows and reflections
+* Visual customization
+* Performance-focused tweaking
+* Unreal Engine rendering experiments, sometimes even on purpose
+
 </details>
 
 ---
 
-## 🛠️ Stuff I build
+## Stuff I build
 
 <table>
-  <tr>
-    <td align="center" width="33%">Modding</td>
-    <td align="center" width="33%">Visual overhauls</td>
-    <td align="center" width="33%">Tooling & automation</td>
-  </tr>
-  <tr>
-    <td align="center"><sup>Making games different (and better)</sup></td>
-    <td align="center"><sup>Everything needs some extra polish!</sup></td>
-    <td align="center"><sup>Build smarter, not harder</sup></td>
-  </tr>
+<tr>
+<td align="center" width="33%"><strong>Mods</strong></td>
+<td align="center" width="33%"><strong>Visual tweaks</strong></td>
+<td align="center" width="33%"><strong>Tools</strong></td>
+</tr>
+<tr>
+<td align="center"><sup>Changing games in ways I wish they already supported</sup></td>
+<td align="center"><sup>Lighting, polish, settings, and eye-candy</sup></td>
+<td align="center"><sup>Automation and workflows for making projects less painful</sup></td>
+</tr>
 </table>
 
-Also: technical experiments and creative side-projects.  
-*If it can be improved, prettified, or overengineered, I'm probably interested.*
+I also make side projects, prototypes, docs, configs, and other digital clutter that somehow becomes useful later.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tools and tech I use
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="32" title="Godot/GDScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="32" title="Godot / GDScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="32" title="Markdown"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="32" title="JSON"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="32" title="YAML"/>
-  <br>
-  <!-- Tools -->
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="32" title="Unreal Engine"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub / GitHub Actions"/>
 </p>
 
 ---
 
-## 🤓 A few fun facts & Current vibe
+## A few very serious facts
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Fun facts
-- 💎 I love tweaking tiny details until they're *just right*.
-- 🧠 Can jump from code to psychology theory in about 0.2s.
-- 🐣 Projects need personality *and* functionality!
-- 🎲 I'm *really* not pretending to be normal about my interests.
-- 💡 There's a high chance I'm thinking up my next mod right now.
-
-</td>
-<td valign="top" width="50%">
-
-### Current vibe
-- Making mods cleaner, smarter
-- Giving games the visuals they deserve
-- Building better solo-dev workflows
-- Actually using AI as a creative tool
-- Learning as much as possible, while building cool stuff
-
-</td>
-</tr>
-</table>
+* I will tweak a tiny visual detail for longer than anyone should admit publicly.
+* I can go from rendering settings to psychology theory with basically no warning.
+* I like projects with personality. Useful is good. Useful *and* charming is better.
+* I enjoy making tools that help me build more tools, which is how software turns into a nesting doll of questionable choices.
+* There is probably another mod idea forming in my head right now. This is not a cry for help. Probably.
 
 ---
 
-## 📊 GitHub stuff
+## GitHub stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajemniktv&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajemniktv&layout=compact&hide_border=true")
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajemniktv\&show_icons=true\&hide_border=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajemniktv\&layout=compact\&hide_border=true\&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🌐 Find me around the web
+## Find me around the web
 
 <p align="center">
   <a href="https://tajemniktv.github.io">
@@ -181,9 +168,9 @@ Also: technical experiments and creative side-projects.
 
 <div align="center">
 
-### Thanks for stopping by ^^
+### Thanks for stopping by
 
-**Modding, graphics, tools, chaos, curiosity.**  
-That’s basically the vibe at this point.
+**Mods, graphics, tools, music, psychology, chaos, curiosity.**
+That is basically the operating system at this point.
 
 </div>
