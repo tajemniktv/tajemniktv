@@ -140,8 +140,10 @@ I also make side projects, prototypes, docs, configs, and other digital clutter 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajemniktv\&show_icons=true\&hide_border=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajemniktv\&layout=compact\&hide_border=true\&theme=tokyonight)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tajemniktv&rank_icon=percentile&hide_title=true&show_icons=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=tajemniktv&rank_icon=percentile&hide_title=true&show_icons=true&theme=material-palenight)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=tajemniktv&layout=donut&langs_count=8&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=tajemniktv&layout=donut&langs_count=8&theme=material-palenight)
+[![Wakatime](https://github-stats-extended.vercel.app/api/wakatime?username=tajemniktv&langs_count=6&display_format=percent&theme=material-palenight)](https://wakatime.com/@tajemniktv)
 
 </div>
 
